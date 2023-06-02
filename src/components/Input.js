@@ -1,9 +1,6 @@
 import React from "react";
 
 export class UserName extends React.Component {
-    constructor(props) {
-      super(props);
-    }
   
     render() {
       return (
@@ -13,9 +10,6 @@ export class UserName extends React.Component {
   }
   
   export class PassWord extends React.Component {
-    constructor(props) {
-      super(props);
-    }
   
     render() {
       return (
